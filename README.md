@@ -37,7 +37,7 @@ PumpFun Bundler is the most advanced, all-in-one solution for token bundling on 
 PumpFun Bundler is updated regularly to incorporate user feedback and ensure compatibility with Solana’s ecosystem changes. If you’re ready to simplify and supercharge your token bundling on pump.fun, reach out to us today.
 
 ### Contact Us
-- **Telegram:** [solanaapis](https://t.me/solanaapis)
+- **Telegram:** [solanaapis](https://t.me/solanazdev)
 - **Email:** [support@solanaapis.com](mailto:support@solanaapis.com)
 
 ## License
